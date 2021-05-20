@@ -10,5 +10,5 @@ Deep Patel
 **Steps to run queries and test the database**
 1. Run "Final_sql.sql" in "MYSQL Workbench" to create schema and tables along with data preinserted.
 2.	Open query files from “Query/Queries_sql” to run queries on that database.
-3.	“Queries/Screenshots” contains snapshots of the output of SQL queries.
+3.	“Queries/Screenshot” contains snapshots of the output of SQL queries.
 4.	“Tables_csv” contains CSV files of data of all SQL tables.
