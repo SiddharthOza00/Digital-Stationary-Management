@@ -3,8 +3,8 @@
 We have created a digital database management system for stationaries consisting of features like Barcode scanner and barcode scanner based entries to stay up-to-date with the stock available, products sold, stock required and many more.
 
 Our team consists of 
-Darshan Patel
-Siddharth Oza(Me)
+Darshan Patel,
+Siddharth Oza(Me),
 Deep Patel
 
 **Steps to run queries and test the database**
